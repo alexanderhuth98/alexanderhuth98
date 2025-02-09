@@ -1,6 +1,10 @@
 # 💫 About Me:
-Soy un desarrollador Backend especializado en Python y algunos de sus frameworks como Flask o Django.<br>Me encuentro cursando la Tecnicatura de programacion en la Universidad Nacional Almirante Brown , ubicada en Buenso Aires.<br>Ademas de eso realize un bootcamp en EducacionIT como Fullstack Developer donde aprendí HTML , CSS y Javascript orientado al Frontend y por parte del Backend aprendi a crear y consumir API´s utilzando node.js y express<br>Actualmente estoy trabajando en proyectos personales utilizando diferentes tecnologias con el fin de afianzar mis conocimientos e inevitablente adquirir nuevos conocimientos para añadir funcionalidades a los proyectos.<br> 
+¡Hola!
+Mi nombre es Alexander Huth y soy desarrollador de software especializado en Python. Me apasiona crear soluciones que simplifiquen tareas de la vida diaria.
 
+Tengo experiencia en Python, Flask, Streamlit, Django, NumPy, Pandas, JavaScript, Node.js, MongoDB, MySQL y SQL Server.
+
+Actualmente, estoy cursando la Tecnicatura Universitaria en Programación en la Universidad Nacional Guillermo Brown (UNaB) y estoy en búsqueda de oportunidades como desarrollador o programador Python.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-huth-simoni/) 
